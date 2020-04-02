@@ -1,0 +1,40 @@
+body ,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: "montserrat" , sans-serif;
+	background: url(https://blog.csiro.au/wp-content/uploads/2013/04/sunset-over-the-pacific-ocean-image-richard-arculus3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	}
+h1 {
+	
+	color: white;
+}
+hr {
+	border-color: purple;
+	border-width: 3px;
+	max-width: 65px;
+}
+.btn {
+	font-weight: 550;
+	border-radius: 300px;
+	text-transform: uppercase;
+	background-color: purple;
+	border-color: purple;
+}
+
+.btn:hover {
+border-width: 5px;
+	background-color: purple;
+	border-color: purple;
+}
+
+.button-xl {
+padding: 1rem 2rem
+}
+.buffer {
+	height: 15rem;
+}
